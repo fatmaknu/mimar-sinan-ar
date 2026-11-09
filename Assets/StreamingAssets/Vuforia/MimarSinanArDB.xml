@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="mimar_sinan_illustrasyonu" size="0.200000 0.109091" />
+    <ImageTarget name="kanuni_sultan_suleyman_koprusu_gorseli" size="0.200000 0.109091" />
+    <ImageTarget name="osmanli_mimari_panosu" size="0.200000 0.109063" />
+    <ImageTarget name="sehzade_camii_gorseli" size="0.200000 0.133117" />
+    <ImageTarget name="suleymaniye_camii_gorseli" size="0.200000 0.172069" />
+    <ImageTarget name="selimiye_camii_gorseli" size="0.200000 0.127604" />
+    <ImageTarget name="ney_sanati_gorseli" size="0.200000 0.266667" />
+    <ImageTarget name="mihrimah_sultan_camii_gorseli" size="0.200000 0.132812" />
+    <ImageTarget name="haseki_kulliyesi_gorseli" size="0.200000 0.133125" />
+    <ImageTarget name="maglova_kemeri_gorseli" size="0.200000 0.181269" />
+    <ImageTarget name="rustem_pasa_camii_gorseli" size="0.200000 0.112500" />
+    <ImageTarget name="kilic_ali_pasa_camii_gorseli" size="0.200000 0.150000" />
+    <ImageTarget name="istanbul_silueti_gorseli" size="0.200000 0.090677" />
+  </Tracking>
+</QCARConfig>
